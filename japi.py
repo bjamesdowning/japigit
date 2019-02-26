@@ -21,3 +21,4 @@ if __name__ == "__main__":
              getStockData(answer)
         else:
             break
+#master version

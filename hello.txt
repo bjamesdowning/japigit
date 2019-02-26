@@ -1,1 +1,3 @@
 hello there
+Testing Git staging
+master version
