@@ -11,7 +11,7 @@ def getStockData(symbl):
     print(resp)
     json2dict = json.loads(resp)
     print("The current price of {} is: ${}".format(symbl, json2dict["Stock Quotes"][0]["2. price"]))
-
+    print("Stock Quotes retrieved successfully!")
 
 if __name__ == "__main__":
     f = open("japi.out", "w+")
