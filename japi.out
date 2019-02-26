@@ -1,0 +1,91 @@
+billy.downing@AUS001493 MINGW64 ~/Documents/PythonWorkspace/PyWork/IFT458
+$ python japi.py
+Enter Stock Ticker (enter quit to exit): AAPL
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "AAPL",
+            "2. price": "174.2600",
+            "3. volume": "21799085",
+            "4. timestamp": "2019-02-25 16:42:40"
+        }
+    ]
+}
+The current price of AAPL is: $174.2600
+Enter Stock Ticker (enter quit to exit): AMD
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "AMD",
+            "2. price": "24.7100",
+            "3. volume": "62909183",
+            "4. timestamp": "2019-02-25 16:52:59"
+        }
+    ]
+}
+The current price of AMD is: $24.7100
+Enter Stock Ticker (enter quit to exit): NVDA
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "NVDA",
+            "2. price": "158.6300",
+            "3. volume": "16239091",
+            "4. timestamp": "2019-02-25 17:00:00"
+        }
+    ]
+}
+The current price of NVDA is: $158.6300
+Enter Stock Ticker (enter quit to exit): BA
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "BA",
+            "2. price": "426.8600",
+            "3. volume": "3168530",
+            "4. timestamp": "2019-02-25 16:02:28"
+        }
+    ]
+}
+The current price of BA is: $426.8600
+Enter Stock Ticker (enter quit to exit): BABA
+{
+    "Meta Data": {
+        "1. Information": "Batch Stock Market Quotes",
+        "2. Notes": "IEX Real-Time",
+        "3. Time Zone": "US/Eastern"
+    },
+    "Stock Quotes": [
+        {
+            "1. symbol": "BABA",
+            "2. price": "183.2650",
+            "3. volume": "22713417",
+            "4. timestamp": "2019-02-25 16:55:31"
+        }
+    ]
+}
+The current price of BABA is: $183.2650
+Enter Stock Ticker (enter quit to exit): quit
+
+billy.downing@AUS001493 MINGW64 ~/Documents/PythonWorkspace/PyWork/IFT458
+$
